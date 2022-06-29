@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @XxNOVIAxX
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning various languages
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ... just message me :)
+Hi! I'm Nova, currently I am learning Java. I have experience in Html, Css, Python< and javascript. If you would like to collab with me on something just send me a message.
 
 <!---
 XxNOVIAxX/XxNOVIAxX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
